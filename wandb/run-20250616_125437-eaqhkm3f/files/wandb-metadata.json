@@ -1,0 +1,41 @@
+{
+  "os":  "Linux-5.4.0-216-generic-x86_64-with-glibc2.35",
+  "python":  "CPython 3.10.12",
+  "startedAt":  "2025-06-16T12:54:37.335220Z",
+  "program":  "/home/DL_MILS/MILS_Final/train_BLIP-2.py",
+  "codePath":  "train_BLIP-2.py",
+  "git":  {
+    "remote":  "https://github.com/Hsuanyu-wang/MILS_HW_2.git"
+  },
+  "email":  "q56134102@gs.ncku.edu.tw",
+  "root":  "/home/DL_MILS/MILS_Final",
+  "host":  "5bb9a35531db",
+  "executable":  "/usr/bin/python",
+  "codePathLocal":  "train_BLIP-2.py",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "gpu":  "NVIDIA TITAN RTX",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "1006449913856",
+      "used":  "944500264960"
+    }
+  },
+  "memory":  {
+    "total":  "67320311808"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  16
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA TITAN RTX",
+      "memoryTotal":  "25769803776",
+      "cudaCores":  4608,
+      "architecture":  "Turing"
+    }
+  ],
+  "cudaVersion":  "12.3"
+}
